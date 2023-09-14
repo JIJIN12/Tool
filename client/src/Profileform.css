@@ -1,0 +1,17 @@
+.profileform-table{
+    
+    margin-left: 40%;
+    margin-right: 25%;
+    width: fit-content;
+    
+    
+}
+.profileform-title{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+/* .profileform-form{
+    display: flex;
+    justify-content: center;
+} */

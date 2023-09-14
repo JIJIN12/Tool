@@ -1,0 +1,23 @@
+/* .Tool-M-C{
+    margin-left: 15px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+}
+
+.Tool-header {
+    display: flex;
+    justify-content: center;
+} */
+
+.Tool-container1,.Tool-container2,.Tool-container3{
+    /* border: 2px solid; */
+    width: fit-content;
+}
+
+/* .column1{
+    border: 2px solid;
+} */
+/* .Tool-container3{
+   margin-left: 80%;
+} */
